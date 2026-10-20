@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\AdventOfCode\\2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DBAD3-FAFB-4196-90D2-54E5216326E6}|1\\01.csproj|d:\\coding\\adventofcode\\2025\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DBAD3-FAFB-4196-90D2-54E5216326E6}|1\\01.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DF372-CE7B-4FB5-85D9-DC9FAE8E520E}|5\\05.csproj|d:\\coding\\adventofcode\\2025\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9DF372-CE7B-4FB5-85D9-DC9FAE8E520E}|5\\05.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DF372-CE7B-4FB5-85D9-DC9FAE8E520E}|5\\05.csproj|d:\\coding\\adventofcode\\2025\\5\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F9DF372-CE7B-4FB5-85D9-DC9FAE8E520E}|5\\05.csproj|solutionrelative:5\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DF372-CE7B-4FB5-85D9-DC9FAE8E520E}|5\\05.csproj|d:\\coding\\adventofcode\\2025\\5\\numberrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9DF372-CE7B-4FB5-85D9-DC9FAE8E520E}|5\\05.csproj|solutionrelative:5\\numberrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA1B9FE-C2E0-49D2-9A1F-02322DE1E7D0}|10\\10.csproj|d:\\coding\\adventofcode\\2025\\10\\indicatorlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA1B9FE-C2E0-49D2-9A1F-02322DE1E7D0}|10\\10.csproj|solutionrelative:10\\indicatorlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA1B9FE-C2E0-49D2-9A1F-02322DE1E7D0}|10\\10.csproj|d:\\coding\\adventofcode\\2025\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA1B9FE-C2E0-49D2-9A1F-02322DE1E7D0}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA1B9FE-C2E0-49D2-9A1F-02322DE1E7D0}|10\\10.csproj|d:\\coding\\adventofcode\\2025\\10\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA1B9FE-C2E0-49D2-9A1F-02322DE1E7D0}|10\\10.csproj|solutionrelative:10\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\1\\Program.cs",
+              "RelativeToolTip": "1\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:48:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\5\\input.txt",
+              "RelativeDocumentMoniker": "5\\input.txt",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\5\\input.txt",
+              "RelativeToolTip": "5\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-06T16:29:07.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberRange.cs",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\5\\NumberRange.cs",
+              "RelativeDocumentMoniker": "5\\NumberRange.cs",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\5\\NumberRange.cs",
+              "RelativeToolTip": "5\\NumberRange.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:11:27.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAADEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:43:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\10\\Helper.cs",
+              "RelativeDocumentMoniker": "10\\Helper.cs",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\10\\Helper.cs",
+              "RelativeToolTip": "10\\Helper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAWwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:46:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndicatorLights.cs",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\10\\IndicatorLights.cs",
+              "RelativeDocumentMoniker": "10\\IndicatorLights.cs",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\10\\IndicatorLights.cs",
+              "RelativeToolTip": "10\\IndicatorLights.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:15:39.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\AdventOfCode\\2025\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "D:\\Coding\\AdventOfCode\\2025\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:06:51.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
